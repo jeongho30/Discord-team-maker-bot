@@ -20,7 +20,7 @@
 
 ### 1. 저장소 복제 (Clone)
 ```bash
-git clone https://github.com/jeongho30/Discord-team-maker-bot
+git clone https://github.com/jeongho30/Discord-team-maker-bot.git
 ```
 ### 2. 패키지 설치
 ```Bash
