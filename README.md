@@ -40,7 +40,7 @@ python main.py
 | :---: | :---: |
 | `!팀짜기` | 현재 음성 채널에 있는 멤버들을 불러와 팀 구성을 시작합니다. |
 | `!초대` | 봇을 내 서버로 초대할 수 있는 링크 버튼을 띄웁니다. |
-## 🛠️ 기술 스택 (Tech Stack)
-- Language: Python 3
-- Library: `discord.py` (2.0+)
-- Tools: `python-dotenv`
+## 🛠️ 개발 환경
+- Language: Python 3.13
+- Library: `discord.py 2.6.4`
+- Tools: `python-dotenv 1.2.1`
