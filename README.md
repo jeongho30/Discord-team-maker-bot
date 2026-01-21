@@ -33,7 +33,7 @@ DISCORD_TOKEN=여기에_당신의_봇_토큰을_입력하세요
 ```
 ### 4. 봇 실행
 ```Bash
-python main.py
+python Main.py
 ```
 ## 🎮 명령어 사용법 (Usage)
 | 명령어 | 설명 |
